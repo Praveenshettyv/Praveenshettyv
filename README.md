@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### ⚙️ &nbsp;GitHub Analytics
+<div class='flex justify-content-space-between align-items-center'>
+<a href="https://github.com/koushil-mankali">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=koushil-mankali&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=koushil-mankali&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</div>

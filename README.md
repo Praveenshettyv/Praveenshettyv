@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+portfolio Link == > https://praveenshettyv.github.io/
 ### ⚙️ &nbsp;GitHub Analytics
 <div class='flex justify-content-space-between align-items-center'>
 <a href="https://github.com/Praveenshettyv">

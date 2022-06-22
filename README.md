@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 portfolio Link == > https://praveenshettyv.github.io/
-projects links ==> https://praveenshettyv.github.io/Shopping-site/
 ### ⚙️ &nbsp;GitHub Analytics
 <div class='flex justify-content-space-between align-items-center'>
 <a href="https://github.com/Praveenshettyv">

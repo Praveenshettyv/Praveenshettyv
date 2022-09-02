@@ -22,3 +22,9 @@ portfolio Link == > https://praveenshettyv.github.io/
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Praveenshettyv&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </div>
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_
